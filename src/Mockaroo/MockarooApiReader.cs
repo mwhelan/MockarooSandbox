@@ -8,7 +8,7 @@ namespace Mockaroo
 {
     public class MockarooApiReader
     {
-        private const string API_KEY = "ba42b3c0";
+        private const string API_KEY = "**** PLACE YOUR API KEY HERE ****";
 
     public MockarooInfo[] GetData()
     {
